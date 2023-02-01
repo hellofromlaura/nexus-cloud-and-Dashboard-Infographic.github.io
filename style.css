@@ -165,6 +165,13 @@ h1, h2, h3 {
     text-decoration: none;
     font-weight: 300;
 }
+.custom-btn:hover {
+    color:#fff;
+    text-decoration: none;
+}
+.custom-btn[href]:visited {
+    color:#fff;
+}
 
 /* Main */
 .main {
